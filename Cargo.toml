@@ -31,6 +31,6 @@ tower-lsp = "0.16"
 
 # tremor deps
 # FIXME!
-tremor-script = { version = "0.11.4", path = '/home/heinz/tremor-runtime/tremor-script', features = [
+tremor-script = { version = "0.11.4", path = '../tremor-runtime/tremor-script', features = [
     "arena-delete",
 ] }
